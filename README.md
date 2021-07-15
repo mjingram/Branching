@@ -1,3 +1,5 @@
-# READ ME
+### Git Cheat Sheet
 
--git init
+* git init- Initialize a local git repo
+* git checkout
+* git 
